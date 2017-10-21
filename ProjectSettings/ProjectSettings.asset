@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: b6fd569a442b8c142a79d05abbb1b313
+  productGUID: 4b101e7dd8db170419e0d0785dc8ef5c
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -589,9 +589,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 429cc90d-8c0a-4063-8237-36313c017a68
-  projectName: Laser Game
-  organizationId: pers29
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
